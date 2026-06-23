@@ -5,9 +5,6 @@ function App() {
   const numbers = [1,2,3,4,5,6,7,8,9,10];
   const filtered = numbers.filter(num => num>5)
   const next = [...filtered,11];
-  // console.log(numbers);
-  // console.log(filtered);
-  // console.log(next);
   next.forEach(num => console.log(num));
 
   return (
