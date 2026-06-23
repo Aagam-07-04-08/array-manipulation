@@ -1,0 +1,29 @@
+.container {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.array {
+  width: 700px;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+
+.array h2 {
+  margin-bottom: 20px;
+}
+
+.array h3 {
+  margin-top: 15px;
+}
+
+.array p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
